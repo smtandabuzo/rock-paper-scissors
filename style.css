@@ -57,6 +57,11 @@ h2 {
   cursor: pointer;
 }
 
+#computer .far,
+#computer .choice{
+  color: rgb(167, 57, 57);
+}
+
 .reset-icon {
   font-size: 30px;
   cursor: pointer;
